@@ -1,4 +1,5 @@
-package org.example.grpc;
+package org.example;
+
 
 
 public class GreetingServiceImpl {

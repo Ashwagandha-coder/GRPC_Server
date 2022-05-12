@@ -1,4 +1,4 @@
-package org.example.grpc;
+package org.example;
 
 /**
  * Hello world!
@@ -10,4 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+
+    // Недоделал
 }
